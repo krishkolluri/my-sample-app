@@ -1,6 +1,6 @@
 {
-  "homepage": "http://krishkolluri.github.io/",
-  "name": "portfolio-app",
+  "homepage": "http://krishkolluri.github.io/my-sample-app",
+  "name": "my-sample-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

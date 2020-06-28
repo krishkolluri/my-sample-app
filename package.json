@@ -1,10 +1,9 @@
 {
-  "home":"http://krishkolluri.github.io/",
+  "homepage":"http://krishkolluri.github.io/",
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dbarochiya.github.io/me",
-  "dependencies": {
+   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",
